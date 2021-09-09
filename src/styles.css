@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500&display=swap");
+
+.App {
+  font-family: "Noto Serif JP", "serif", "sans-serif";
+  text-align: center;
+}
+
+.subheading {
+  font-size: 1.4rem;
+  margin: 0.5rem auto;
+}
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.inputBox {
+  width: 60%;
+  margin: 0.5rem auto;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+}
+
+.outputDisplay {
+  padding: 0.5rem;
+  font-size: 1.6rem;
+  font-style: italic;
+}
+
+.displayEmojis {
+  padding: 0.5rem;
+  font-size: 1.6rem;
+}
+
+.emojiData {
+  width: 60%;
+  margin: auto;
+}
+
+.emojiDisplay {
+  cursor: pointer;
+  font-size: 1.6rem;
+  padding: 0.5rem;
+}
